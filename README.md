@@ -1,4 +1,4 @@
 # udbu
 
-> Note To Self:
+> Note:
 > Finish this no matter what!
