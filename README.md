@@ -1,4 +1,4 @@
-# udbu
+# udbu (Universal Database Backup Utility)
 
 > [!IMPORTANT]
 > Note to Self:
